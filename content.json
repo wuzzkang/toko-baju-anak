@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "theme": "light",
+    "title": "WuzzKang"
+  },
+  "content": {
+    "hero": {
+      "heading": "Baju anak balita",
+      "cta_text": "Beli Sekarang",
+      "subheading": "Koleksi baju anak balita terbaru dan trendi, membuat anak Anda lebih stylish dan nyaman"
+    }
+  },
+  "features": [
+    {
+      "desc": "Baju bayi yang lembut dan nyaman, dengan desain sederhana namun elegan",
+      "icon": "👕",
+      "title": "Baju Bayi"
+    },
+    {
+      "desc": "Celana anak yang kuat dan tahan lama, dengan pilihan warna yang cerah dan menarik",
+      "icon": "👖",
+      "title": "Celana Anak"
+    },
+    {
+      "desc": "Dress anak perempuan yang cantik dan feminin, dengan desain yang trendi dan stylish",
+      "icon": "👗",
+      "title": "Dress Anak"
+    }
+  ]
+}
